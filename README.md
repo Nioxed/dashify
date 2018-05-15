@@ -4,6 +4,9 @@
 
 Please consider following this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), and consider starring the project to show your :heart: and support.
 
+## Fork Warning
+This fork removes dashifies ability to convert camelCase to dash-seperated.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
